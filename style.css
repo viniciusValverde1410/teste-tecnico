@@ -120,11 +120,12 @@ body {
 }
 
 .two {
+    height: 87%;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    justify-content: space-between;
-    padding: 1rem;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 1.5rem;
 }
 
 .produto:hover {
